@@ -3,16 +3,16 @@
   Página de Login Responsiva
 </h1>
 
-<p align="center">
-  <img src="/assets/img/screely-desktop.png" width="100%" />
+<p align="center"> Desktop
+  <img src="/assets/img/screely-desktop.png" width="80%" />
 </p>
 
-<p align="center"> I
-  <img src="/assets/img/screely-ipadMini.png" width="100%" />
+<p align="center"> ipadMini
+  <img src="/assets/img/screely-ipadMini.png" width="80%" />
 </p>
 
-<p align="center"> I
-  <img src="/assets/img/screely-iphoneSE.png" width="100%" />
+<p align="center"> iphone SE
+  <img src="/assets/img/screely-iphoneSE.png" width="80%" />
 </p>
 
 ## 💻 Projeto
