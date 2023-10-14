@@ -1,17 +1,29 @@
 
 <h1 align="center">
-  Página de Login Responsiva
+    Página de Login Responsiva
 </h1>
 
-<p align="center"> Desktop
+<h2 align="center"> 
+    ipadMini 
+<h2>
+
+<p align="center">
   <img src="/assets/img/screely-desktop.png" width="80%" />
 </p>
 
-<p align="center"> ipadMini
+<h2 align="center"> 
+    ipadMini 
+<h2>
+
+<p align="center"> 
   <img src="/assets/img/screely-ipadMini.png" width="80%" />
 </p>
 
-<p align="center"> iphone SE
+<h2 align="center"> 
+    iphone SE 
+<h2>
+
+<p align="center"> 
   <img src="/assets/img/screely-iphoneSE.png" width="80%" />
 </p>
 
@@ -28,7 +40,7 @@ Este desafio foi feito pelo 0rogerinho no DrafCode, ele disponibilizou o projeto
 
 - [x] Váriaveis do css no `:root`
 - [x] Resposividade
-- [x] Deploy no Netlify --> 
+- [x] Deploy no Vercel --> 
 
 ## 🏷️ Proximos Updates
 
