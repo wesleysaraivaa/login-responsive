@@ -36,7 +36,7 @@ Este desafio foi feito pelo 0rogerinho no DrafCode, ele disponibilizou o projeto
 </p>
 
 <h2 align="center"> 
-    ipadMini 
+    ipadMini (Tablet)
 <h2>
 
 <p align="center"> 
@@ -44,7 +44,7 @@ Este desafio foi feito pelo 0rogerinho no DrafCode, ele disponibilizou o projeto
 </p>
 
 <h2 align="center"> 
-    iphone SE 
+    iphone SE (Mobile)
 <h2>
 
 <p align="center"> 
