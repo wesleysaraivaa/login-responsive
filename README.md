@@ -40,7 +40,7 @@ Este desafio foi feito pelo 0rogerinho no DrafCode, ele disponibilizou o projeto
 
 - [x] Váriaveis do css no `:root`
 - [x] Resposividade
-- [x] Deploy no Vercel --> 
+- [x] Deploy no Vercel -->  https://login-responsive-red.vercel.app/
 
 ## 🏷️ Proximos Updates
 
