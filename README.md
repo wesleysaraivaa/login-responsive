@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center"> 
-    ipadMini 
+    Desktop 
 <h2>
 
 <p align="center">
