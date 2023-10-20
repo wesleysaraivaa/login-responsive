@@ -168,6 +168,7 @@ label {
 }
 
 .logar-criar button {
+    color: #000000;
     display: flex;
     height: 33px;
     justify-content: space-around;
